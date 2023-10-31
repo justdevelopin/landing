@@ -1,0 +1,33 @@
+
+.how-heading {
+  text-align: center;
+}
+
+.how-cards {
+  display: flex;
+  justify-content: space-between;
+  gap: 4rem;
+  margin-block: 5rem;
+}
+
+.how-card {
+  /* padding: 5rem; */
+  text-align: center;
+  box-shadow: 0 0 5px #10101027;
+  padding-top: 2rem;
+}
+
+.how-ills {
+  max-width: 7rem;
+  max-height: 7rem;
+  margin-bottom: 1rem;
+}
+
+.how-card-heading {
+  margin-bottom: 2rem;
+}
+
+.how-card-p {
+  padding-inline: 2rem;
+  padding-bottom: 2rem;
+}

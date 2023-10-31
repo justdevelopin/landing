@@ -1,0 +1,29 @@
+.banner-section {
+  color: #fff;
+  padding-block: 10rem;
+  margin-bottom: 2rem;
+}
+
+.banner-texts {
+  /* display: flex;
+  flex-direction: column;
+  gap: 1rem; */
+}
+
+.banner-heading {
+  font-size: 2.2rem;
+  margin-bottom: 0.5rem;
+}
+
+.banner-text {
+  font-size: 1.4rem;
+  margin-bottom: 2rem;
+}
+
+.banner-button {
+  text-decoration: none;
+  color: #fff;
+  background-color: #179f40e0;
+  padding: 1rem 2rem;
+  border-radius: 40px;
+}

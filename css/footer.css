@@ -1,0 +1,23 @@
+.footer {
+  color: #fff;
+  background-color: rgb(44, 44, 44);
+  height: 15rem;
+  text-align: center;
+}
+
+.footer-logos {
+  display: flex;
+  justify-content: center;
+  gap: 5rem;
+}
+
+.fa-brands {
+  color: #179f40e0;
+  /* margin-top: 2rem; */
+  font-size: 2rem;
+
+}
+
+.footer-p {
+  padding: 5ch
+}
